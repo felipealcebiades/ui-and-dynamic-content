@@ -17,7 +17,7 @@ body {
 /*masterhead---------------------------------------------*/
 
 .masterhead {
-  text-align: right;
+  text-align: center;
   height: 50vh;
   background: url("../img/masterhead-bg.jpg");
   background-size: cover;
