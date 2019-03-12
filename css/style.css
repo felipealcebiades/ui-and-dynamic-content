@@ -18,7 +18,7 @@ body {
 
 .masterhead {
   text-align: center;
-  height: 10vh;
+  height: 30vh;
   background: url("../img/masterhead-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body {
 .masterhead-title {
   color: #000000;
   background:#FFBB72;    
-  padding: 30px;
+  padding: 10px;
   opacity: 0.8;
   font-weight:bolder ;
 }
