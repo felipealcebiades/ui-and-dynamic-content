@@ -18,7 +18,7 @@ body {
 
 .masterhead {
   text-align: center;
-  height: 50vh;
+  height: 30vh;
   background: url("../img/masterhead-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@ body {
   color: white;
   height: 40px;
   padding: 8px;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bold;
 }
 
@@ -129,7 +129,7 @@ body {
 /*footer---------------------------------------------*/
 
 footer {
-  padding: 30px;
+  padding: 80px;
   background-color:#FF9625;
 }
 
@@ -148,6 +148,7 @@ footer {
   0% {
     transform: translatey(-20%);
     opacity: 0;
+      
   }
   100%{
     transform: translatey(0%);
